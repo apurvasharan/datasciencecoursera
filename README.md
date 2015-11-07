@@ -1,1 +1,1 @@
-# datasciencecoursera project for Data Scientist's Toolbox course on Coursera
+# datasciencecoursera repo for Data Scientist's Toolbox course on Coursera
